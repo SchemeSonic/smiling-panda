@@ -23,14 +23,14 @@ sections:
     image: "/images/report_analysis_.png"
     actions:
     - label: Videoyu İzle
-      url: "/https://www.youtube.com/watch?v=GCe786SIGbQ&t=6s"
+      url: https://www.youtube.com/watch?v=GCe786SIGbQ&t=6s
   - title: Görev Atama
     content: Tek bir arayüzden sağ tık yaparak göreve ait bütün gereklilikleri belirleyebilir
       ve ilgili kişi veya ekiplere atayabilirsiniz.
     image: "/images/product_manager.png"
     actions:
     - label: Videoyu İzle
-      url: "/https://www.youtube.com/watch?v=dgvrN5VrypE"
+      url: https://www.youtube.com/watch?v=dgvrN5VrypE
   - title: Görev Takibi
     content: Mobil uygulama ile saha ekiplerinizin çalışma saatlerini verimli hale
       getirin. Artık konum aramayla, uzun süren raporlamalarla geçen verimsiz zamanlara
@@ -38,7 +38,7 @@ sections:
     image: "/images/mobile_phone.png"
     actions:
     - label: Videoyu İzle
-      url: "/https://www.youtube.com/watch?v=CpSKTQIZEx4"
+      url: https://www.youtube.com/watch?v=CpSKTQIZEx4
   - title: Takım Oluşturma
     content: |-
       Saha çalışanlarını ekip haline getirerek koordinasyonu sağlayın.
@@ -48,7 +48,7 @@ sections:
     image: "/images/online_team_meeting_.png"
     actions:
     - label: Videoyu İzle
-      url: "/https://www.youtube.com/watch?v=Lrs2_Oq7UL4"
+      url: https://www.youtube.com/watch?v=Lrs2_Oq7UL4
   subtitle: ''
 - type: section_cta
   template: section_cta

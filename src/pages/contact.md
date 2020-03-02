@@ -6,7 +6,7 @@ sections:
   section_id: contact
   title: İletişim Formu
   content: ''
-  bg: white
+  bg: gray
   subtitle: ''
 menus:
   secondary:

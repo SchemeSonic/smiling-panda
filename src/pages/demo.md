@@ -6,7 +6,7 @@ sections:
   section_id: demo
   title: Demo Talep Formu
   content: Kurum adınızla birlikte kısaca organizasyon yapınızdan kısaca belirtiniz.
-  bg: white
+  bg: gray
   subtitle: Bize mail adresinizi iletin. Demo için sizinle hemen iletişime geçelim.
 menus:
   secondary:

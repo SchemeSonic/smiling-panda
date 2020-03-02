@@ -27,12 +27,8 @@
     "content": "&copy; Pintask. Tüm hakları saklıdır.",
     "links": [
       {
-        "text": "Parabol Yazılım",
+        "text": "Parabol Yazılım tarafından geliştirilmiştir",
         "url": "https://www.paraboly.com/",
-        "new_window": true
-      },
-      {
-        "text": " tarafından geliştirilmiştir.",
         "new_window": true
       }
     ]

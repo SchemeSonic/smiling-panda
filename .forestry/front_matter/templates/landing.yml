@@ -30,7 +30,7 @@ fields:
   config:
     required: true
 pages:
-- src/pages/contact-1.md
 - src/pages/contact.md
+- src/pages/demo.md
 - src/pages/features.md
 - src/pages/index.md

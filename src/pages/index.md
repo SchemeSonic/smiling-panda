@@ -1,94 +1,93 @@
 ---
 title: Home
 sections:
-  - type: section_hero
-    template: section_hero
-    section_id: hero
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
-    actions:
-      - label: Learn More
-        url: /features
-  - type: section_features
-    template: section_features
-    section_id: features
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    bg: gray
-    featureslist:
-      - title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        actions:
-          - label: Learn More
-            url: /features
-  - type: section_reviews
-    template: section_reviews
-    section_id: reviews
-    title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    bg: white
-    reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: section_cta
-    template: section_cta
-    section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-  - type: section_posts
-    template: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    bg: gray
+- type: section_hero
+  template: section_hero
+  section_id: hero
+  title: Artık Ofis ile Saha Daha Yakın
+  content: Harita tabanlı görev yönetimi uygulamamız ile sahayla ofisi en kısa yoldan
+    bir araya getiriyor, iş planlama ve takip süreçlerinin verimliliğini arttırıyoruz.
+  image: "/images/pintask web 3-01.png"
+  actions:
+  - label: Demo
+    url: "/features"
+- type: section_features
+  template: section_features
+  section_id: description
+  title: Harita Tabanlı Görev Yönetimi Uygulaması
+  subtitle: " Pintask saha çalışmalarınız ve çalışanlarınız için kullanabileceğiniz,
+    planlama, takip ve analiz süreçlerini bir araya getiren harita tabanlı web ve
+    mobil uygulamasıdır."
+  bg: gray
+  featureslist: []
+- template: section_features
+  bg: white
+  type: section_features
+  section_id: feature
+  title: Neler Sağlıyor
+  featureslist:
+  - title: " Planlama ve iş atama süreçlerinde harcanan zaman ve eforu en aza indirin"
+    content: Görev yöneticisi planlama süreçlerindeki ihtiyaçlarınızı anlar ve saha
+      işlerinizi çalışanlarınıza atamak için bütün planlamayı yapabileceğiniz basit
+      bir arayüz sağlar.
+    image: "/images/Feature 1.png"
+    actions: []
+  - title: Ekiplerinizin çalışma saatlerini verimli hale getirin
+    content: Saha çalışanları mobil uygulama aracılığıyla vakit kaybetmeden kendilerine
+      atanan işlerini takip edebilir, fotoğraf, belge ve yorumlarını ekleyerek ofisle
+      iletişime geçebilirler.
+    image: "/images/Feature 2.png"
+    actions: []
+  - title: Çalışanlarınızı ekip haline getirerek koordinasyonu sağlayın
+    content: Ekipler oluşturarak hem iş atama sürecinde ofis çalışanlarınıza kolaylık
+      sağlayabilir hem de saha ekibinizin koordine olma sürecini hızlandırabilirsiniz.
+    image: "/images/Feature 2 – 1.png"
+    actions: []
+  - title: Sahayla olan iletişiminizi tek bir yere taşıyın
+    content: İş süreçlerine dair fotoğraf, belge gönderimini ve konuşmaları uygulama
+      içerisinde görev özelinde yaparak herkesin zamandan tasarruf etmesini ve iş
+      detaylarının ortadan kaybolmamasını sağlayabilirsiniz.
+    image: "/images/Feature 2 – 2.png"
+    actions: []
+  - title: Anlık takip ile sahadaki işlerinize yakın olun
+    content: İş süreçlerine dair fotoğraf, belge gönderimini ve konuşmaları uygulama
+      içerisinde görev özelinde yaparak herkesin zamandan tasarruf etmesini ve iş
+      detaylarının ortadan kaybolmamasını sağlayabilirsiniz.
+    image: "/images/Feature 2 – 3.png"
+    actions: []
+  - title: Arşivlenen verilerle karmaşayı azaltın
+    content: Görev yöneticisi planlama süreçlerindeki ihtiyaçlarınızı anlar ve saha
+      işlerinizi çalışanlarınıza atamak için bütün planlamayı yapabileceğiniz basit
+      bir arayüz sağlar.
+    image: "/images/Feature 2 – 4.png"
+    actions: []
+  - title: Geçmişe dayalı analizlerle iş süreçlerinizin verimini arttırın
+    content: "###### Arşivlenen verilerden üretilen analizlerle hem iş süreçlerinizin
+      hem de çalışanlarınızın performanslarını ölçebilir, planlamalarınızı veriye
+      dayandırarak verimi arttırabilirsiniz."
+    image: "/images/Feature 2 – 5.png"
+    actions: []
+  subtitle: ''
+- template: section_content
+  bg: gray
+  type: section_content
+  section_id: benefit
+  title: Uygulamanın Faydaları
+  image: "/images/pintask website -neler sağlıyor-02.png"
+  content: ''
+  actions: []
+- type: section_cta
+  template: section_cta
+  section_id: call-to-action
+  title: Ücretsiz Demo Versiyonunu Deneyin
+  subtitle: " Saha çalışmalarınızda Pintask'ı 14 gün ücretsiz denemek için"
+  actions:
+  - label: HEMEN İLETİŞİME GEÇİN
+    url: "/signup"
 menus:
   main:
     title: Home
     weight: 1
 template: landing
+
 ---

@@ -1,36 +1,40 @@
 {
-    "title": "Stackbit Azimuth Theme",
-    "palette": "blue",
-    "header": {
-        "title": "Azimuth",
-        "logo_img": "images/logo.png",
-        "has_nav": true,
-        "menu": {
-            "actions": [
-                {
-                    "label": "Sign Up",
-                    "url": "/signup"
-                }
-            ]
+  "title": "Pintaskapp",
+  "palette": "orange",
+  "header": {
+    "title": "Pintask",
+    "logo_img": "/images/logo_Logo.png",
+    "has_nav": true,
+    "menu": {
+      "actions": [
+        {
+          "label": "Demo",
+          "url": "/signup"
         }
-    },
-    "footer": {
-        "logo_img": "images/logo_alt.png",
-        "tagline": "SaaS theme by Stackbit",
-        "has_nav": true,
-        "nav_title": "Company",
-        "has_social": true,
-        "social_title": "Community",
-        "has_subscribe": true,
-        "subscribe_title": "Subscribe",
-        "subscribe_content": "Stay up to date with our latest developments.",
-        "content": "&copy; Stackbit. All rights reserved.",
-        "links": [
-            {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
-            }
-        ]
+      ]
     }
+  },
+  "footer": {
+    "logo_img": "/images/logo_Logo.png",
+    "tagline": "Ofis ile Saha Artık Daha Yakın",
+    "has_nav": true,
+    "nav_title": "Pintask",
+    "has_social": true,
+    "social_title": "Sosyal Medya",
+    "has_subscribe": true,
+    "subscribe_title": "Abone ol",
+    "subscribe_content": "Gelişmelerden haberdar olmak için abone olun.",
+    "content": "&copy; Pintask. Tüm hakları saklıdır.",
+    "links": [
+      {
+        "text": "Parabol Yazılım",
+        "url": "https://www.paraboly.com/",
+        "new_window": true
+      },
+      {
+        "text": " tarafından geliştirilmiştir.",
+        "new_window": true
+      }
+    ]
+  }
 }

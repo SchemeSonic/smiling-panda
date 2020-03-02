@@ -8,6 +8,10 @@
     "menu": {
       "actions": [
         {
+          "label": "Login",
+          "url": "http://metistraffic.com/"
+        },
+        {
           "label": "Demo",
           "url": "/demo"
         }

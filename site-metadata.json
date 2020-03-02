@@ -9,7 +9,7 @@
       "actions": [
         {
           "label": "Demo",
-          "url": "/signup"
+          "url": "/demo"
         }
       ]
     }

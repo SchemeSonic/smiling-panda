@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Demo
 sections:
 - type: section_contact
   template: section_contact

@@ -57,7 +57,7 @@ sections:
   subtitle: Saha çalışmalarınızda Pintask'ı 14 gün ücretsiz denemek için
   actions:
   - label: Hemen İletişime Geçin
-    url: "/"
+    url: "/demo"
 menus:
   main:
     title: Features

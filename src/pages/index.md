@@ -82,8 +82,8 @@ sections:
   title: Ücretsiz Demo Versiyonunu Deneyin
   subtitle: " Saha çalışmalarınızda Pintask'ı 14 gün ücretsiz denemek için"
   actions:
-  - label: HEMEN İLETİŞİME GEÇİN
-    url: "/signup"
+  - label: Hemen İletişime Geçin
+    url: "/demo"
 menus:
   main:
     title: Home

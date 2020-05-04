@@ -33,11 +33,13 @@ sections:
       tüm detayları oluşturun ve ilgili kişilere atayın.
     image: "/images/Feature 1-1.png"
     actions: []
-  - title: Ekiplerinizin çalışma saatlerini verimli hale getirin
-    content: Saha çalışanları mobil uygulama aracılığıyla vakit kaybetmeden kendilerine
-      atanan işlerini takip edebilir, fotoğraf, belge ve yorumlarını ekleyerek ofisle
-      iletişime geçebilirler.
-    image: "/images/Feature 2.png"
+  - title: İletişimi kolaylaştırarak saha çalışanlarınızın işlerine odaklanmasını
+      sağlayın
+    content: Saha çalışanları başka herhangi bir şeye ihtiyaç duymadan kendi işlerine
+      odaklanabilir. Nerede olurlarsa olsunlar bütün süreci mobil uygulamada yönetebilir.
+      Uygulama ile kendi işlerini takip edebilir, konumlarını bulabilir, iş detayları
+      ile ilgili raporlama yapabilir.
+    image: "/images/Feature 2-1.png"
     actions: []
   - title: Çalışanlarınızı ekip haline getirerek koordinasyonu sağlayın
     content: Ekipler oluşturarak hem iş atama sürecinde ofis çalışanlarınıza kolaylık

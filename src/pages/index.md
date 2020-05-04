@@ -24,13 +24,14 @@ sections:
   bg: white
   type: section_features
   section_id: feature
-  title: Neler Sağlıyor
+  title: ''
   featureslist:
-  - title: " Planlama ve iş atama süreçlerinde harcanan zaman ve eforu en aza indirin"
-    content: Görev yöneticisi planlama süreçlerindeki ihtiyaçlarınızı anlar ve saha
-      işlerinizi çalışanlarınıza atamak için bütün planlamayı yapabileceğiniz basit
-      bir arayüz sağlar.
-    image: "/images/Feature 1.png"
+  - title: 'Görevleri planlama ve kişilere atama süreçlerinizi kolaylaştırarak zaman
+      kazanın '
+    content: Bütün süreçlerinizi tek bir haritada görüntüleyerek tek bir arayüzden
+      işlerinizi planlayın. Önceliklendirerek ve takvimlendirerek görevlerle ilgili
+      tüm detayları oluşturun ve ilgili kişilere atayın.
+    image: "/images/Feature 1-1.png"
     actions: []
   - title: Ekiplerinizin çalışma saatlerini verimli hale getirin
     content: Saha çalışanları mobil uygulama aracılığıyla vakit kaybetmeden kendilerine

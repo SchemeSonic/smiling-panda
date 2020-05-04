@@ -25,9 +25,9 @@ sections:
   title: ''
   featureslist:
   - title: 'Görevleri planlama süreçlerinizi kolaylaştırarak zaman kazanın '
-    content: "##### Bütün süreçlerinizi tek bir haritada görüntüleyerek tek bir arayüzden
+    content: Bütün süreçlerinizi tek bir haritada görüntüleyerek tek bir arayüzden
       işlerinizi planlayın. Önceliklendirerek ve takvimlendirerek görevlerle ilgili
-      tüm detayları oluşturun ve ilgili kişilere atayın."
+      tüm detayları oluşturun ve ilgili kişilere atayın.
     image: "/images/Feature 1-1.png"
     actions: []
   - title: İletişimi kolaylaştırarak sahada işlere odaklanmasını sağlayın

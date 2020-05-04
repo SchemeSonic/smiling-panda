@@ -5,8 +5,7 @@ sections:
   template: section_hero
   section_id: hero
   title: Artık Ofis ile Saha Daha Yakın
-  content: Saha çalışmalarınız hakkında endişelenmeyin. Pintask, tüm saha çalışmalarınızı
-    tek bir ekran üzerinden yönetmenizi sağlayacak.
+  content: Pintask, tüm saha çalışmalarınızı tek bir ekran üzerinden yönetmenizi sağlayacak.
   image: "/images/pintask web 3-01.png"
   actions:
   - label: Demo
@@ -14,10 +13,9 @@ sections:
 - type: section_features
   template: section_features
   section_id: description
-  title: Harita Tabanlı Görev Yönetimi Uygulaması
-  subtitle: " Pintask saha çalışmalarınız ve çalışanlarınız için kullanabileceğiniz,
-    planlama, takip ve analiz süreçlerini bir araya getiren harita tabanlı web ve
-    mobil uygulamasıdır."
+  title: Artık saha çalışmalarınız için endişelenmek yok
+  subtitle: Harita tabanlı görev yönetimi ile bütün saha çalışmalarınızı dijitale
+    dönüştürün ve takımınızla organize olun.
   bg: gray
   featureslist: []
 - template: section_features

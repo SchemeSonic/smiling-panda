@@ -24,8 +24,7 @@ sections:
   section_id: feature
   title: ''
   featureslist:
-  - title: 'Görevleri planlama ve kişilere atama süreçlerinizi kolaylaştırarak zaman
-      kazanın '
+  - title: 'Görevleri planlama süreçlerinizi kolaylaştırarak zaman kazanın '
     content: Bütün süreçlerinizi tek bir haritada görüntüleyerek tek bir arayüzden
       işlerinizi planlayın. Önceliklendirerek ve takvimlendirerek görevlerle ilgili
       tüm detayları oluşturun ve ilgili kişilere atayın.

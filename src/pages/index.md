@@ -30,8 +30,7 @@ sections:
       tüm detayları oluşturun ve ilgili kişilere atayın.
     image: "/images/Feature 1-1.png"
     actions: []
-  - title: İletişimi kolaylaştırarak saha çalışanlarınızın işlerine odaklanmasını
-      sağlayın
+  - title: İletişimi kolaylaştırarak sahada işlere odaklanmasını sağlayın
     content: Saha çalışanları başka herhangi bir şeye ihtiyaç duymadan kendi işlerine
       odaklanabilir. Nerede olurlarsa olsunlar bütün süreci mobil uygulamada yönetebilir.
       Uygulama ile kendi işlerini takip edebilir, konumlarını bulabilir, iş detayları

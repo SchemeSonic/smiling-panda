@@ -49,7 +49,7 @@ sections:
   template: section_cta
   section_id: call-to-action
   title: Ücretsiz Demo Versiyonunu Deneyin
-  subtitle: Saha çalışmalarınızda Pintask'ı 14 gün ücretsiz denemek için
+  subtitle: " Saha çalışmalarınızda Pintask ile dijital dönüşümü sağlayın"
   actions:
   - label: Hemen İletişime Geçin
     url: "/demo"

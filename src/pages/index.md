@@ -37,27 +37,26 @@ sections:
       yapabilirler.
     image: "/images/Feature 2-1.png"
     actions: []
-  - title: Ekipler oluşturarak çalışanlarınızın birbirlerinden haberdar olmalarını
-      sağlayın
-    content: Farklı tür görevler için gerekli alanlardaki kişileri ekipler haline
-      getirerek saha çalışmalarınızı koordineli bir şekilde yürütürken planlama ve
-      takip süreçlerini kolaylaştırın.
+  - title: Ekip Oluşturarak Çalışanlarınızın Organize Olmalarını Kolaylaştırın
+    content: Saha çalışanlarınızı iş türleri ve birimlerine göre ekip haline getirerek
+      sahadaki işleri daha koordineli bir şekilde yürütürken iş atama ve takip süreçlerinizi
+      kolaylaştırın.
     image: "/images/Feature 3.png"
     actions: []
-  - title: Sahayı gerçek zamanlı olarak gözlemleyin
-    content: Saha çalışanlarınızı ve ekiplerinizi konumlarını haritadan takip edinin,
-      bildirimler aracılığıyla anlık görevleri hakkındaki her bir adımdan haberdar
-      olun ve ihtiyaç duyduğunuzda onlarla iletişime geçin.
+  - title: Anlık Takip ile Sahadan Haberdar Olun
+    content: Saha çalışanlarınızın ve ekiplerinizin konumlarını harita üzerinden takip
+      edin, bildirimler aracılığıyla göreve dair anlık değişikliklerden haberdar olun
+      ve ihtiyaç duyduğunuzda iletişime geçin.
     image: "/images/Feature 4.png"
     actions: []
-  - title: Hiçbir bilgi veya belgeyi kaybetmeyin
-    content: Dijital arşiv sayesinde işlerinize ait bilgi ve belge kaybını önleyin
-      ve geçmiş işlerinizle ilgili detaylara istediğiniz anda kolaylıkla ulaşabilirsiniz.
+  - title: Verilerinizi Kaybetmeyin, İstediğiniz Belge ya da Bilgiye Anında Ulaşın
+    content: Dijital arşiv sayesinde işlerinize ait veri kaybını önleyin ve geçmiş
+      belge ve bilgilerinize istediğiniz anda kolaylıkla ulaşın.
     image: "/images/Feature 5.png"
     actions: []
-  - title: Dinamik analizlerle günden güne daha verimli hale gelin
-    content: Dinamik ve kişiselleştirilmiş analizler ile ekip ve iş süreçlerinizi
-      ölçümleyerek bir sonraki adımınızı veriler doğrultusunda atın.
+  - title: Dinamik Analizlerle İş Süreçlerinizi Her Geçen Gün Daha Verimli Hale Getirin
+    content: Dinamik ve kişiselleştirilmiş analizlerle çalışanlarınızın ve iş süreçlerinizin
+      performanslarını analiz edin ve veriye dayalı planlamalar yapın.
     image: "/images/Feature 6.png"
     actions: []
   subtitle: ''

@@ -8,6 +8,16 @@ sections:
   content: ''
   bg: gray
   subtitle: ''
+- template: section_content
+  bg: gray
+  type: section_content
+  actions:
+  - url: "/demo-page"
+    label: demo-page
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
 menus:
   secondary:
     title: Contact

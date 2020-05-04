@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Anasayfa
 sections:
 - type: section_hero
   template: section_hero

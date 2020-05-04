@@ -32,6 +32,5 @@ fields:
 pages:
 - src/pages/contact.md
 - src/pages/demo-1.md
-- src/pages/demo.md
 - src/pages/index.md
 - src/pages/nasıl-calisir.md

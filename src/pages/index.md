@@ -37,7 +37,7 @@ sections:
       ile ilgili raporlama yapabilir.
     image: "/images/Feature 2-1.png"
     actions: []
-  - title: Çalışanlarınızı ekipler haline getirerek birbirlerinden haberdar olmalarını
+  - title: Ekipler oluşturarak çalışanlarınızın birbirlerinden haberdar olmalarını
       sağlayın
     content: Farklı tür görevler için gerekli alanlardaki kişileri ekipler haline
       getirerek saha çalışmalarınızı koordineli bir şekilde yürütürken planlama ve

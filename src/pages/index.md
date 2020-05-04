@@ -5,8 +5,8 @@ sections:
   template: section_hero
   section_id: hero
   title: Artık Ofis ile Saha Daha Yakın
-  content: Harita tabanlı görev yönetimi uygulamamız ile sahayla ofisi en kısa yoldan
-    bir araya getiriyor, iş planlama ve takip süreçlerinin verimliliğini arttırıyoruz.
+  content: Saha çalışmalarınız hakkında endişelenmeyin. Pintask, tüm saha çalışmalarınızı
+    tek bir ekran üzerinden yönetmenizi sağlayacak.
   image: "/images/pintask web 3-01.png"
   actions:
   - label: Demo

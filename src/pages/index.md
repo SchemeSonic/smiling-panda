@@ -14,7 +14,7 @@ sections:
 - type: section_features
   template: section_features
   section_id: description
-  title: Saha işler için endişelenmeye son
+  title: Sahadaki işler için endişelenmeye son
   subtitle: Harita tabanlı iş takip uygulaması ile bütün saha çalışmalarınızı dijital
     hale getirin ve ekibinizle organize olun.
   bg: gray

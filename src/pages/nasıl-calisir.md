@@ -4,10 +4,8 @@ sections:
 - type: section_content
   template: section_content
   section_id: how-it-works
-  title: Harita Tabanlı Görev Yönetimi Uygulaması
-  content: Pintask saha çalışmalarınız ve çalışanlarınız için kullanabileceğiniz,
-    planlama, takip ve analiz süreçlerini bir araya getiren harita tabanlı web ve
-    mobil uygulamasıdır.
+  title: Saha işlerini konum tabanlı koordine etmenin kolay ve etkili yolu
+  content: ''
   image: ''
   bg: gray
   actions: []

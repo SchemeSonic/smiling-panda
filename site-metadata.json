@@ -8,7 +8,7 @@
     "menu": {
       "actions": [
         {
-          "label": "Login",
+          "label": "Giriş",
           "url": "http://pintask.paraboly.com/"
         },
         {

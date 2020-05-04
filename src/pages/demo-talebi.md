@@ -1,6 +1,6 @@
 ---
 template: page
-title: Demo-Page
+title: Demo Talebi
 subtitle: ''
 img_path: "/images/pintask-banner-01.png"
 

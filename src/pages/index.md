@@ -4,7 +4,7 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Artık Ofis ile Saha Daha Yakın
+  title: Ofis ile Saha Artık Daha Yakın
   content: Pintask, tüm saha çalışmalarınızı tek bir ekran üzerinden yönetmenizi sağlayacak.
   image: "/images/pintask web 3-01.png"
   actions:

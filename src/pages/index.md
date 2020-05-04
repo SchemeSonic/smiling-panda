@@ -48,29 +48,21 @@ sections:
       takip süreçlerini kolaylaştırın.
     image: "/images/Feature 3.png"
     actions: []
-  - title: Sahayla olan iletişiminizi tek bir yere taşıyın
-    content: İş süreçlerine dair fotoğraf, belge gönderimini ve konuşmaları uygulama
-      içerisinde görev özelinde yaparak herkesin zamandan tasarruf etmesini ve iş
-      detaylarının ortadan kaybolmamasını sağlayabilirsiniz.
-    image: "/images/Feature 2 – 2.png"
+  - title: Sahayı gerçek zamanlı olarak gözlemleyin
+    content: Saha çalışanlarınızı ve ekiplerinizi konumlarını haritadan takip edinin,
+      bildirimler aracılığıyla anlık görevleri hakkındaki her bir adımdan haberdar
+      olun ve ihtiyaç duyduğunuzda onlarla iletişime geçin.
+    image: "/images/Feature 4.png"
     actions: []
-  - title: Anlık takip ile sahadaki işlerinize yakın olun
-    content: İş süreçlerine dair fotoğraf, belge gönderimini ve konuşmaları uygulama
-      içerisinde görev özelinde yaparak herkesin zamandan tasarruf etmesini ve iş
-      detaylarının ortadan kaybolmamasını sağlayabilirsiniz.
-    image: "/images/Feature 2 – 3.png"
+  - title: Hiçbir bilgi veya belgeyi kaybetmeyin
+    content: Dijital arşiv sayesinde işlerinize ait bilgi ve belge kaybını önleyin
+      ve geçmiş işlerinizle ilgili detaylara istediğiniz anda kolaylıkla ulaşabilirsiniz.
+    image: "/images/Feature 5.png"
     actions: []
-  - title: Arşivlenen verilerle karmaşayı azaltın
-    content: Görev yöneticisi planlama süreçlerindeki ihtiyaçlarınızı anlar ve saha
-      işlerinizi çalışanlarınıza atamak için bütün planlamayı yapabileceğiniz basit
-      bir arayüz sağlar.
-    image: "/images/Feature 2 – 4.png"
-    actions: []
-  - title: Geçmişe dayalı analizlerle iş süreçlerinizin verimini arttırın
-    content: "###### Arşivlenen verilerden üretilen analizlerle hem iş süreçlerinizin
-      hem de çalışanlarınızın performanslarını ölçebilir, planlamalarınızı veriye
-      dayandırarak verimi arttırabilirsiniz."
-    image: "/images/Feature 2 – 5.png"
+  - title: Dinamik analizlerle günden güne daha verimli hale gelin
+    content: Dinamik ve kişiselleştirilmiş analizler ile ekip ve iş süreçlerinizi
+      ölçümleyerek bir sonraki adımınızı veriler doğrultusunda atın.
+    image: "/images/Feature 6.png"
     actions: []
   subtitle: ''
 - template: section_content

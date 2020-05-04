@@ -4,8 +4,9 @@ sections:
 - type: section_hero
   template: section_hero
   section_id: hero
-  title: Ofis ile Saha Artık Daha Yakın
-  content: Pintask, tüm saha çalışmalarınızı tek bir ekran üzerinden yönetmenizi sağlayacak.
+  title: Saha ile Ofis Artık Daha Yakın
+  content: Pintask, tüm saha çalışmalarınızın koordinasyon, planlama ve takibini harita
+    tabanlı tek bir uygulama üzerinden yapabilmenizi sağlar.
   image: "/images/pintask web 3-01.png"
   actions:
   - label: Demo
@@ -13,9 +14,9 @@ sections:
 - type: section_features
   template: section_features
   section_id: description
-  title: Artık saha çalışmalarınız için endişelenmek yok
-  subtitle: Harita tabanlı görev yönetimi ile bütün saha çalışmalarınızı dijitale
-    dönüştürün ve takımınızla organize olun.
+  title: Saha işler için endişelenmeye son
+  subtitle: Harita tabanlı iş takip uygulaması ile bütün saha çalışmalarınızı dijital
+    hale getirin ve ekibinizle organize olun.
   bg: gray
   featureslist: []
 - template: section_features
@@ -24,17 +25,16 @@ sections:
   section_id: feature
   title: ''
   featureslist:
-  - title: 'Görevleri planlama süreçlerinizi kolaylaştırarak zaman kazanın '
-    content: Bütün süreçlerinizi tek bir haritada görüntüleyerek tek bir arayüzden
-      işlerinizi planlayın. Önceliklendirerek ve takvimlendirerek görevlerle ilgili
-      tüm detayları oluşturun ve ilgili kişilere atayın.
+  - title: İş Atama ve Planlama Süreçlerinde Zaman ve Efordan Tasarruf Sağlayın
+    content: Bütün iş süreçlerini tek bir haritada görüntüleyerek işlerinizi planlayın.
+      Önceliklendirerek ve takvimlendirerek işle ilgili tüm detayları oluşturun ve
+      ilgili çalışanlara atayın.
     image: "/images/Feature 1-1.png"
     actions: []
-  - title: İletişimi kolaylaştırarak sahada işlere odaklanmasını sağlayın
-    content: Saha çalışanları başka herhangi bir şeye ihtiyaç duymadan kendi işlerine
-      odaklanabilir. Nerede olurlarsa olsunlar bütün süreci mobil uygulamada yönetebilir.
-      Uygulama ile kendi işlerini takip edebilir, konumlarını bulabilir, iş detayları
-      ile ilgili raporlama yapabilir.
+  - title: Koordinasyon Süreçlerini Basitleştirerek Sahada İşi Merkezinize Alın
+    content: Saha çalışanları tek bir mobil uygulama aracılığıyla kendi işlerini takip
+      edebilir, adreslerin konumlarını bulabilir ve iş detayları ile ilgili raporlamayı
+      yapabilirler.
     image: "/images/Feature 2-1.png"
     actions: []
   - title: Ekipler oluşturarak çalışanlarınızın birbirlerinden haberdar olmalarını

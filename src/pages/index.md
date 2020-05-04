@@ -41,10 +41,12 @@ sections:
       ile ilgili raporlama yapabilir.
     image: "/images/Feature 2-1.png"
     actions: []
-  - title: Çalışanlarınızı ekip haline getirerek koordinasyonu sağlayın
-    content: Ekipler oluşturarak hem iş atama sürecinde ofis çalışanlarınıza kolaylık
-      sağlayabilir hem de saha ekibinizin koordine olma sürecini hızlandırabilirsiniz.
-    image: "/images/Feature 2 – 1.png"
+  - title: Çalışanlarınızı ekipler haline getirerek birbirlerinden haberdar olmalarını
+      sağlayın
+    content: Farklı tür görevler için gerekli alanlardaki kişileri ekipler haline
+      getirerek saha çalışmalarınızı koordineli bir şekilde yürütürken planlama ve
+      takip süreçlerini kolaylaştırın.
+    image: "/images/Feature 3.png"
     actions: []
   - title: Sahayla olan iletişiminizi tek bir yere taşıyın
     content: İş süreçlerine dair fotoğraf, belge gönderimini ve konuşmaları uygulama

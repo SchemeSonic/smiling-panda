@@ -41,23 +41,23 @@ sections:
     content: Saha çalışanlarınızı iş türleri ve birimlerine göre ekip haline getirerek
       sahadaki işleri daha koordineli bir şekilde yürütürken iş atama ve takip süreçlerinizi
       kolaylaştırın.
-    image: "/images/Feature 3.png"
+    image: "/images/Pintask_feature_3.png"
     actions: []
   - title: Anlık takip ile sahadan haberdar olun
     content: Saha çalışanlarınızın ve ekiplerinizin konumlarını harita üzerinden takip
       edin, bildirimler aracılığıyla göreve dair anlık değişikliklerden haberdar olun
       ve ihtiyaç duyduğunuzda iletişime geçin.
-    image: "/images/Feature 4.png"
+    image: "/images/Pintask_feature_4.png"
     actions: []
   - title: Verilerinizi kaybetmeyin, istediğiniz belge ya da bilgiye anında ulaşın
     content: Dijital arşiv sayesinde işlerinize ait veri kaybını önleyin ve geçmiş
       belge ve bilgilerinize istediğiniz anda kolaylıkla ulaşın.
-    image: "/images/Feature 5.png"
+    image: "/images/Pintask_feature_5.png"
     actions: []
   - title: Dinamik analizlerle iş süreçlerinizi her geçen gün daha verimli hale getirin
     content: Dinamik ve kişiselleştirilmiş analizlerle çalışanlarınızın ve iş süreçlerinizin
       performanslarını analiz edin ve veriye dayalı planlamalar yapın.
-    image: "/images/Feature 6.png"
+    image: "/images/Pintask_feature_6.png"
     actions: []
   subtitle: ''
 - template: section_content

@@ -51,7 +51,7 @@ export default class Page extends React.Component {
             <div><i>
                 Pintask hakkında daha detaylı bilgi almak ya
                 da soru sormak isterseniz <b>info@pintask.app</b>
-                adresinden bizimle iletişime geçebilirsiniz.
+                 adresinden bizimle iletişime geçebilirsiniz.
               </i>
             </div>
               </div>

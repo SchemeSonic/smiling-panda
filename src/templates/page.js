@@ -5,6 +5,22 @@ import {Layout} from '../components/index';
 import {safePrefix, htmlToReact} from '../utils';
 
 export default class Page extends React.Component {
+    componentDidMount() {
+    debugger;
+    const script = document.createElement("script");
+    script.src = "https://js.hsforms.net/forms/shell.js";
+    document.body.appendChild(script);
+
+    script.addEventListener("load", () => {
+      if (window.hbspt) {
+        window.hbspt.forms.create({
+          portalId: "7601211",
+          formId: "6d500ba8-3e01-4909-becf-0ff691c6a69c",
+          target: "#hubspotForm"
+        });
+      }
+    });
+  }
     render() {
         return (
             <Layout {...this.props}>
@@ -28,6 +44,7 @@ export default class Page extends React.Component {
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
                   </div>
                 </article>
+<div id="hubspotForm"></div>
               </div>
             </div>
             </Layout>

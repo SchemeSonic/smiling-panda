@@ -75,7 +75,7 @@ sections:
   subtitle: " Saha çalışmalarınızda Pintask ile dijital dönüşümü sağlayın"
   actions:
   - label: Hemen İletişime Geçin
-    url: "/demo"
+    url: "/demo-talebi"
 menus:
   main:
     title: Anasayfa

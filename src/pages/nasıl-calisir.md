@@ -55,7 +55,7 @@ sections:
     url: "/demo"
 menus:
   main:
-    title: Features
+    title: Nasıl Çalışır?
     weight: 2
 template: landing
 

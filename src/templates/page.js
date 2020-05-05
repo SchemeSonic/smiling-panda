@@ -49,10 +49,12 @@ export default class Page extends React.Component {
               Talebiniz için sizinle en kısa sürede iletişime geçeceğiz.
             </div>
             <p></p>
-            <div>
-              Pintask hakkında daha detaylı bilgi almak ya da soru sormak
-              isterseniz pintask@paraboly.com adresinden bizimle iletişime
-              geçebilirsiniz .
+            <div><i>
+                This text is italic Pintask hakkında daha detaylı bilgi almak ya
+                da soru sormak isterseniz <b>This text is bold</b>
+                pintask@paraboly.com adresinden bizimle iletişime geçebilirsiniz
+                .
+              </i>
             </div>
               </div>
             </div>

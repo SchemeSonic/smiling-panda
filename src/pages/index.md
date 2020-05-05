@@ -10,7 +10,7 @@ sections:
   image: "/images/pintask web 3-01.png"
   actions:
   - label: Demo
-    url: "/features"
+    url: "/demo-talebi"
 - type: section_features
   template: section_features
   section_id: description

@@ -7,7 +7,6 @@ import SubscribeForm from './SubscribeForm';
 
 export default class Footer extends React.Component {
     componentDidMount() {
-    debugger;
     const script = document.createElement("script");
     script.src = "https://js.hsforms.net/forms/shell.js";
     document.body.appendChild(script);
@@ -77,7 +76,6 @@ export default class Footer extends React.Component {
                      {/* <SubscribeForm {...this.props} /> */}
                      <b>Email</b>
                   <div id="hubspotForm2"></div>
-                </div>
                     </div>
                     }
                   </div>

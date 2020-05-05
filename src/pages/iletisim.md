@@ -22,6 +22,6 @@ menus:
   secondary:
     title: Contact
     weight: 3
-template: landing
+template: İletişim
 
 ---

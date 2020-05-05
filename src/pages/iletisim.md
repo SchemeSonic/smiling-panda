@@ -20,8 +20,8 @@ sections:
   image: ''
 menus:
   secondary:
-    title: Contact
+    title: İletişim
     weight: 3
-template: İletişim
+template: landing
 
 ---

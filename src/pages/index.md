@@ -78,7 +78,7 @@ sections:
     url: "/demo"
 menus:
   main:
-    title: Home
+    title: Anasayfa
     weight: 1
 template: landing
 

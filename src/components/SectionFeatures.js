@@ -32,7 +32,7 @@ export default class SectionFeatures extends React.Component {
                       <h3 className="block-title underline">
                          <div>
                         {" "}
-                        <font size="10">{_.get(feature, "title")}</font>
+                        <font size="6">{_.get(feature, "title")}</font>
                       </div>
 </h3>
                       <div className="block-copy">

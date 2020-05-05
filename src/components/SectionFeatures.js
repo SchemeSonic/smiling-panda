@@ -10,7 +10,7 @@ export default class SectionFeatures extends React.Component {
             <section id={_.get(this.props, 'section.section_id')} className={'block features-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
               <div className="block-header inner-small">
                 {_.get(this.props, 'section.title') && 
-                <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
+                <h4 className="block-title">{_.get(this.props, 'section.title')}</h4>
                 }
                 {_.get(this.props, 'section.subtitle') && 
                 <p className="block-subtitle">

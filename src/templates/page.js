@@ -50,9 +50,9 @@ export default class Page extends React.Component {
             </div>
             <p></p>
             <div><i>
-                This text is italic Pintask hakkında daha detaylı bilgi almak ya
-                da soru sormak isterseniz <b>This text is bold</b>
-                pintask@paraboly.com adresinden bizimle iletişime geçebilirsiniz
+                Pintask hakkında daha detaylı bilgi almak ya
+                da soru sormak isterseniz <b>pintask@paraboly.com</b>
+                adresinden bizimle iletişime geçebilirsiniz
                 .
               </i>
             </div>

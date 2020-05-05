@@ -6,6 +6,22 @@ import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 
 export default class Footer extends React.Component {
+    componentDidMount() {
+    debugger;
+    const script = document.createElement("script");
+    script.src = "https://js.hsforms.net/forms/shell.js";
+    document.body.appendChild(script);
+
+    script.addEventListener("load", () => {
+      if (window.hbspt) {
+        window.hbspt.forms.create({
+          portalId: "7601211",
+          formId: "432910c7-1ef4-4e1b-9a34-c7128aca32a0",
+          target: "#hubspotForm2"
+        });
+      }
+    });
+  }
     render() {
         return (
             <footer id="colophon" className="site-footer">
@@ -58,7 +74,10 @@ export default class Footer extends React.Component {
                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.subscribe_content') && 
                       <p>{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.subscribe_content'))}</p>
                       }
-                      <SubscribeForm {...this.props} />
+                     {/* <SubscribeForm {...this.props} /> */}
+                     <b>Email</b>
+                  <div id="hubspotForm2"></div>
+                </div>
                     </div>
                     }
                   </div>

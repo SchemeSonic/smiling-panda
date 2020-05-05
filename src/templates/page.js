@@ -6,7 +6,6 @@ import {safePrefix, htmlToReact} from '../utils';
 
 export default class Page extends React.Component {
     componentDidMount() {
-    debugger;
     const script = document.createElement("script");
     script.src = "https://js.hsforms.net/forms/shell.js";
     document.body.appendChild(script);

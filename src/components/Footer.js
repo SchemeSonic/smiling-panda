@@ -74,7 +74,6 @@ export default class Footer extends React.Component {
                       <p>{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.subscribe_content'))}</p>
                       }
                      {/* <SubscribeForm {...this.props} /> */}
-                     <b>Email</b>
                   <div id="hubspotForm2"></div>
                     </div>
                     }

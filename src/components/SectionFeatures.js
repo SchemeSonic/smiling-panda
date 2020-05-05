@@ -10,7 +10,7 @@ export default class SectionFeatures extends React.Component {
             <section id={_.get(this.props, 'section.section_id')} className={'block features-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
               <div className="block-header inner-small">
                 {_.get(this.props, 'section.title') && 
-                <h4 className="block-title">{_.get(this.props, 'section.title')}</h4>
+                <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
                 }
                 {_.get(this.props, 'section.subtitle') && 
                 <p className="block-subtitle">
@@ -29,7 +29,12 @@ export default class SectionFeatures extends React.Component {
                     </div>
                     }
                     <div className="cell block-content">
-                      <h5 className="block-title underline">{_.get(feature, 'title')}</h5>
+                      <h3 className="block-title underline">
+                         <div>
+                        {" "}
+                        <font size="16">{_.get(feature, "title")}</font>
+                      </div>
+</h3>
                       <div className="block-copy">
                         {markdownify(_.get(feature, 'content'))}
                       </div>

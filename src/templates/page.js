@@ -45,6 +45,15 @@ export default class Page extends React.Component {
                   </div>
                 </article>
 <div id="hubspotForm"></div>
+<div>
+              Talebiniz için sizinle en kısa sürede iletişime geçeceğiz.
+            </div>
+            <p></p>
+            <div>
+              Pintask hakkında daha detaylı bilgi almak ya da soru sormak
+              isterseniz pintask@paraboly.com adresinden bizimle iletişime
+              geçebilirsiniz .
+            </div>
               </div>
             </div>
             </Layout>

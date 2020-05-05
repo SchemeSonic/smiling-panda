@@ -35,7 +35,7 @@ sections:
     content: Saha çalışanları tek bir mobil uygulama aracılığıyla kendi işlerini takip
       edebilir, adreslerin konumlarını bulabilir ve iş detayları ile ilgili raporlamayı
       yapabilirler.
-    image: "/images/Feature 2-1.png"
+    image: "/images/Pintask_feature_2.png"
     actions: []
   - title: Ekip oluşturarak çalışanlarınızın organize olmalarını kolaylaştırın
     content: Saha çalışanlarınızı iş türleri ve birimlerine göre ekip haline getirerek

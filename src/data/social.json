@@ -3,7 +3,7 @@
     {
       "type": "linkedin",
       "title": "LinkedIn",
-      "url": "https://www.linkedin.com/"
+      "url": "https://www.linkedin.com/company/42846001"
     },
     {
       "title": "Youtube",
@@ -12,12 +12,7 @@
     {
       "type": "twitter",
       "title": "Twitter",
-      "url": "https://twitter.com/"
-    },
-    {
-      "type": "instagram",
-      "title": "Instagram",
-      "url": "https://www.instagram.com/"
+      "url": "https://twitter.com/pintaskapp"
     }
   ]
 }

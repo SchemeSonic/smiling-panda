@@ -25,3 +25,4 @@ fields:
     required: true
 pages:
 - src/pages/demo-talebi.md
+- src/pages/teşekkürler.md

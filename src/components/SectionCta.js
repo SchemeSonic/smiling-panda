@@ -31,12 +31,16 @@ export default class SectionCta extends React.Component {
                   _.get(this.props, "section.actions"),
                   (action, action_idx) => (
                     <div
-                      onClick={trackCustomEvent({
-                        category: "Special Button",
-                        action: "Click",
-                        label: "Gatsby Plugin Example Campaign",
-                        value: 43
-                      })}
+                      onClick={e => {
+                        e.preventDefault();
+
+                        trackCustomEvent({
+                          category: "Special Button",
+                          action: "Click",
+                          label: "Gatsby Plugin Example Campaign",
+                          value: 43
+                        });
+                      }}
                     >
                       <Link
                         key={action_idx}

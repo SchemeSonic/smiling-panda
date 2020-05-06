@@ -33,11 +33,10 @@ export default class SectionCta extends React.Component {
                     <div
                       onClick={e => {
                         e.preventDefault();
-
                         trackCustomEvent({
-                          category: "Special Button",
+                          category: "Cta Demo Button",
                           action: "Click",
-                          label: "Gatsby Plugin Example Campaign",
+                          label: "on press cta demo button",
                           value: 43
                         });
                       }}

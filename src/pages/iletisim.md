@@ -14,7 +14,7 @@ sections:
   content: Pintask hakkında daha detaylı bilgi almak ya da soru sormak isterseniz
     **info@pintask.app**  ya da soysal medya adresinden bizimle iletişime geçebilirsiniz
     .
-  image: "/images/Mail-01.png"
+  image: "/images/Mail-02-01.png"
 menus:
   secondary:
     title: İletişim

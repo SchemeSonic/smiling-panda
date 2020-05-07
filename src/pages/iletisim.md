@@ -1,23 +1,20 @@
 ---
 title: İletişim
 sections:
-- type: section_contact
-  template: section_contact
-  section_id: contact
-  title: İletişim Formu
-  content: ''
-  bg: gray
-  subtitle: ''
 - template: section_content
   bg: gray
   type: section_content
   actions:
   - label: Linkedin
-    url: ''
-  section_id: ''
-  title: ''
-  content: ''
-  image: ''
+    url: https://www.linkedin.com/company/42846001
+  - label: Twitter
+    url: https://twitter.com/pintaskapp
+  section_id: contact-massege
+  title: İletişim
+  content: Pintask hakkında daha detaylı bilgi almak ya da soru sormak isterseniz
+    **info@pintask.app**  ya da soysal medya adresinden bizimle iletişime geçebilirsiniz
+    .
+  image: "/images/Mail-01.png"
 menus:
   secondary:
     title: İletişim

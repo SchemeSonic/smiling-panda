@@ -8,6 +8,16 @@ sections:
   content: ''
   bg: gray
   subtitle: ''
+- template: section_content
+  bg: gray
+  type: section_content
+  actions:
+  - label: Linkedin
+    url: ''
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
 menus:
   secondary:
     title: İletişim

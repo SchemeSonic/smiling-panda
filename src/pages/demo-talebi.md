@@ -7,4 +7,4 @@ img_path: "/images/pintask-banner-01.png"
 
 \*Gördük ki Covid-19 sürecinin en büyük kahramanlarından biri de saha çalışanları. Onların işlerini kolaylaştırmak için formu doldurarak bizimle iletişime geçebilir ve 2 ay ücretsiz kullanım süresinden yararlanabilirsiniz.
 
-Pintask hakkında daha detaylı bilgi almak ya da soru sormak isterseniz pintask@paraboly.com adresinden bizimle iletişime geçebilirsiniz .
+Pintask hakkında daha detaylı bilgi almak ya da soru sormak isterseniz info@pintask.app adresinden bizimle iletişime geçebilirsiniz.

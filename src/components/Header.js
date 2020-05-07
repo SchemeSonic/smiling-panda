@@ -2,7 +2,7 @@ import React from "react";
 import _ from "lodash";
 
 import { Link, safePrefix } from "../utils";
-import { trackCustomEvent } from "gatsby-plugin-google-analytics";
+// import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 
 export default class Header extends React.Component {
   render() {
@@ -102,24 +102,12 @@ export default class Header extends React.Component {
                                 key={action_idx}
                                 className="menu-item menu-button"
                               >
-                                <div
-                                  onClick={e => {
-                                    e.preventDefault();
-                                    trackCustomEvent({
-                                      category: "Header Button",
-                                      action: "Click",
-                                      label: "on press header button",
-                                      value: 45
-                                    });
-                                  }}
+                                <Link
+                                  to={safePrefix(_.get(action, "url"))}
+                                  className="button"
                                 >
-                                  <Link
-                                    to={safePrefix(_.get(action, "url"))}
-                                    className="button"
-                                  >
-                                    {_.get(action, "label")}
-                                  </Link>
-                                </div>
+                                  {_.get(action, "label")}
+                                </Link>
                               </li>
                             )
                           )}

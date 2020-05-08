@@ -29,7 +29,7 @@ sections:
     content: Bütün iş süreçlerini tek bir haritada görüntüleyerek işlerinizi planlayın.
       Önceliklendirerek ve takvimlendirerek işle ilgili tüm detayları oluşturun ve
       ilgili çalışanlara atayın.
-    image: "/images/Pintask_feature_1-1.png"
+    image: "/images/Pintask-Feature -1.png"
     actions: []
   - title: Koordinasyon süreçlerini basitleştirerek sahada işi merkezinize alın
     content: Saha çalışanları tek bir mobil uygulama aracılığıyla kendi işlerini takip

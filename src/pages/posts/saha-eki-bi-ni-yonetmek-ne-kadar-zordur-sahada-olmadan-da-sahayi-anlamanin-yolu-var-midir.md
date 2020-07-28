@@ -35,6 +35,4 @@ Saha çalışanları ofis dışında çalıştığı için performanslarının �
 
 Sahada olmadan sahanın koordinasyonunu sağlamanın ne kadar zor olduğunu artık biliyoruz. Bu zorlukları nasıl çözeriz diye düşünürken saha ve ofisi birbirine çok daha yakın hale getiren uygulamamız Pintask’ı geliştirdik. Pintask ile saha ve ofis arasındaki anlık iletişim sağlanabilir, ofisteyken kendinizi sahada çalışanlarınızın yanında gibi hissedebilirsiniz!
 
-Pintask hakkında detaylı bilgi almak için web sitemizi inceleyebilirsiniz.
-
-[https://www.pintask.app/](https://www.pintask.app/ "https://www.pintask.app/")
+[Pintask'ı ](https://www.pintask.app/ "Anasayfa")detaylı olarak inceleyebilirsiniz.

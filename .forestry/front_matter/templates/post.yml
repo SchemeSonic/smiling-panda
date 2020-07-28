@@ -36,3 +36,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- src/pages/posts/saha-eki-bi-ni-yonetmek-ne-kadar-zordur-sahada-olmadan-da-sahayi-anlamanin-yolu-var-midir.md

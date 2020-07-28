@@ -23,9 +23,9 @@ Saha çalışanları genellikle yaptıkları işleri bireysel olarak, bazı zama
 
 ###### Raporlama için ekstra zaman harcamaları
 
-Sahada yapılan işlerin çoğunluğu beden gücü gerektiren ve yorucu çalışmalar olduğundan zor işlerle uğraşırken bunların raporlamalarını kağıt kalem ile teker teker yapmak saha çalışanlarına hem vakit kaybettiren hemde uğraştıran bir durumdur. 
+Sahada yapılan işlerin çoğunluğu beden gücü gerektiren ve yorucu çalışmalar olduğundan zor işlerle uğraşırken bunların raporlamalarını kağıt kalem ile teker teker yapmak saha çalışanlarına hem vakit kaybettiren hem de uğraştıran bir durumdur.
 
-###### İş önceliklerini belirlemede yaşanılan zorluklar 
+###### İş önceliklerini belirlemede yaşanılan zorluklar
 
 Bir saha çalışanı, yapacağı işlerin hepsine ne kadar hakim olursa olsun, çalışma düzenleri müşterilerin istekleri doğrultusunda şekillenir. Sürekli değişen istek ve arzular arasında iş önceliğini belirlemek kağıt kalemle yapılsa dahi çoğu zaman karışıklığa sebep olabilir.
 
@@ -33,7 +33,7 @@ Bir saha çalışanı, yapacağı işlerin hepsine ne kadar hakim olursa olsun, 
 
 Saha çalışanları ofis dışında çalıştığı için performanslarının ölçülebilme ihtimalleri çok düşüktür. Sadece sahada ekip halinde çalışanlar gözlemlenebilir. Bu durum verimliliğin bilinmemesine sebep olur ve aynı zamanda gelecek çalışmalara dair öngörüde bulunamama, kesin bir şekilde hareket edememeye de sebep olur.
 
-Sahada olmadan sahanın koordinasyonunu sağlamanın ne kadar zor olduğunu artık biliyoruz. Bu zorlukları nasıl çözeriz diye düşünürken saha ve ofisi birbirine çok daha yakın hale getiren uygulamamız Pintask’ı geliştirdik. Pintask ile saha ve ofis arasındaki anlık iletişim sağlanabilir,ofisteyken kendinizi sahada çalışanlarınızın yanında gibi hissedebilirsiniz!
+Sahada olmadan sahanın koordinasyonunu sağlamanın ne kadar zor olduğunu artık biliyoruz. Bu zorlukları nasıl çözeriz diye düşünürken saha ve ofisi birbirine çok daha yakın hale getiren uygulamamız Pintask’ı geliştirdik. Pintask ile saha ve ofis arasındaki anlık iletişim sağlanabilir, ofisteyken kendinizi sahada çalışanlarınızın yanında gibi hissedebilirsiniz!
 
 Pintask hakkında detaylı bilgi almak için web sitemizi inceleyebilirsiniz.
 

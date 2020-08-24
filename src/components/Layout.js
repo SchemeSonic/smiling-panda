@@ -5,6 +5,7 @@ import _ from "lodash";
 import { safePrefix } from "../utils";
 import Header from "./Header";
 import Footer from "./Footer";
+import { Breadcrumb } from "gatsby-plugin-breadcrumb";
 
 export default class Body extends React.Component {
   render() {
@@ -14,7 +15,7 @@ export default class Body extends React.Component {
           <title>
             {_.get(this.props, "pageContext.frontmatter.title") &&
               _.get(this.props, "pageContext.frontmatter.title") + " - "}
-            Pintask, tüm saha çalışmalarınızın koordinasyon, planlama ve
+            Pintask, tüm sahaa çalışmalarınızın koordinasyon, planlama ve
             takibini harita tabanlı...
           </title>
           <meta charSet="utf-8" />
@@ -28,6 +29,9 @@ export default class Body extends React.Component {
             rel="stylesheet"
           />
           <link rel="stylesheet" href={safePrefix("assets/css/main.css")} />
+          <div>
+            <Breadcrumb location="./Social.js" crumbLabel="About Us" />
+          </div>
         </Helmet>
         <div
           id="page"

@@ -5,7 +5,7 @@ export default class BreadcrumbField extends React.Component {
   render() {
     return (
       <div>
-        <Breadcrumb crumbLabel="About Us" />
+        <Breadcrumb location="./Social.js" crumbLabel="About Us" />
       </div>
     );
   }

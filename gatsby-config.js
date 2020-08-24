@@ -42,19 +42,5 @@ module.exports = {
         trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none",
       },
     },
-    {
-      resolve: `gatsby-plugin-breadcrumb`,
-      options: {
-        // defaultCrumb: optional To create a default crumb
-        // see Click Tracking default crumb example below
-        defaultCrumb: {
-          location: {
-            pathname: "/",
-          },
-          crumbLabel: "HomeCustom",
-          crumbSeparator: " / ",
-        },
-      },
-    },
   ],
 };

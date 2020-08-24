@@ -11,19 +11,12 @@ export default class Body extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <Helmet
-          title={
-            _.get(this.props, "pageContext.frontmatter.title") &&
-            _.get(this.props, "pageContext.frontmatter.title") +
-              " - " +
-              _.get(this.props, "pageContext.site.siteMetadata.title")
-          }
-          meta={[
-            { name: "description", content: "Pintask" },
-            { name: "keywords", content: "Pintask, saha" },
-            { property: "og:type", content: "website" },
-          ]}
-        >
+        <Helmet>
+          <title>
+            {_.get(this.props, "pageContext.frontmatter.title") &&
+              _.get(this.props, "pageContext.frontmatter.title") + " - "}
+            {_.get(this.props, "pageContext.site.siteMetadata.title")}
+          </title>
           <meta charSet="utf-8" />
           <meta
             name="viewport"
@@ -35,9 +28,6 @@ export default class Body extends React.Component {
             rel="stylesheet"
           />
           <link rel="stylesheet" href={safePrefix("assets/css/main.css")} />
-          <div>
-            <Breadcrumb location="./Social.js" crumbLabel="About Us" />
-          </div>
         </Helmet>
         <div
           id="page"

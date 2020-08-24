@@ -13,7 +13,6 @@ import SectionReviews from "./SectionReviews";
 import Social from "./Social";
 import SubscribeForm from "./SubscribeForm";
 import Layout from "./Layout";
-import BreadcrumbField from "./BreadcrumbField";
 
 export {
   CtaButtons,
@@ -31,7 +30,6 @@ export {
   Social,
   SubscribeForm,
   Layout,
-  BreadcrumbField,
 };
 
 export default {
@@ -50,5 +48,4 @@ export default {
   Social,
   SubscribeForm,
   Layout,
-  BreadcrumbField,
 };

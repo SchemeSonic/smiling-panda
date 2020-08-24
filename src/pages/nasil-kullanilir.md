@@ -55,7 +55,7 @@ sections:
     url: "/demo-talebi"
 menus:
   main:
-    title: Nasıl Çalışır?
+    title: Nasıl Kullanılır?
     weight: 2
 template: landing
 

@@ -8,39 +8,53 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `pages`,
-        path: `${__dirname}/src/pages`
-      }
+        path: `${__dirname}/src/pages`,
+      },
     },
     {
       resolve: `gatsby-plugin-stackbit-static-sass`,
       options: {
         inputFile: `${__dirname}/src/sass/main.scss`,
-        outputFile: `${__dirname}/public/assets/css/main.css`
-      }
+        outputFile: `${__dirname}/public/assets/css/main.css`,
+      },
     },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [`gatsby-remark-component`]
-      }
+        plugins: [`gatsby-remark-component`],
+      },
     },
     {
       resolve: `gatsby-remark-page-creator`,
-      options: {}
+      options: {},
     },
     {
       resolve: `@stackbit/gatsby-plugin-menus`,
       options: {
         sourceUrlPath: `fields.url`,
         pageContextProperty: `menus`,
-        menus: require("./src/data/menus.json")
-      }
+        menus: require("./src/data/menus.json"),
+      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none"
-      }
-    }
-  ]
+        trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none",
+      },
+    },
+    {
+      resolve: `gatsby-plugin-breadcrumb`,
+      options: {
+        // defaultCrumb: optional To create a default crumb
+        // see Click Tracking default crumb example below
+        defaultCrumb: {
+          location: {
+            pathname: "/",
+          },
+          crumbLabel: "HomeCustom",
+          crumbSeparator: " / ",
+        },
+      },
+    },
+  ],
 };

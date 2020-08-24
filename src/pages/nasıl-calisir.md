@@ -1,5 +1,5 @@
 ---
-title: Nasıl Çalışır
+title: Nasıl Kullanılır
 sections:
 - type: section_content
   template: section_content
@@ -12,7 +12,7 @@ sections:
 - template: section_features
   bg: white
   type: section_features
-  title: Nasıl Çalışır?
+  title: Nasıl Kullanılır
   section_id: how-it-works
   featureslist:
   - title: Uygulama ile tanışın

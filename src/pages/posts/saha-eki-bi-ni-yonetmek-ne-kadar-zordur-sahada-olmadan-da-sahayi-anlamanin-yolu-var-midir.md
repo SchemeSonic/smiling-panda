@@ -1,9 +1,9 @@
 ---
 template: post
-title: Saha Ekibini yönetmek ne kadar zordur? Sahada olmadan da sahayı anlamanın yolu
+title: Saha ekibini yönetmek ne kadar zordur? Sahada olmadan da sahayı anlamanın yolu
   var mıdır?
 subtitle: ''
-date: 2020-07-27T21:00:00Z
+date: 2020-07-27T21:00:00.000+00:00
 thumb_img_path: "/images/blog1-sahaekiplerininyasadklarzorluklar-01.png"
 img_path: "/images/blog1-sahaekiplerininyasadklarzorluklar-01.png"
 excerpt: ''

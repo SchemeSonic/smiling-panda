@@ -37,4 +37,4 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/saha-eki-bi-ni-yonetmek-ne-kadar-zordur-sahada-olmadan-da-sahayi-anlamanin-yolu-var-midir.md
+- src/pages/posts/saha-ekibini-yonetmek-ne-kadar-zordur.md

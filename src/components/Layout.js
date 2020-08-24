@@ -11,13 +11,19 @@ export default class Body extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <Helmet>
-          <title>
-            {_.get(this.props, "pageContext.frontmatter.title") &&
-              _.get(this.props, "pageContext.frontmatter.title") + " - "}
-            Pintask, tüm sahaa çalışmalarınızın koordinasyon, planlama ve
-            takibini harita tabanlı...
-          </title>
+        <Helmet
+          title={
+            _.get(this.props, "pageContext.frontmatter.title") &&
+            _.get(this.props, "pageContext.frontmatter.title") +
+              " - " +
+              _.get(this.props, "pageContext.site.siteMetadata.title")
+          }
+          meta={[
+            { name: "description", content: "Pintask" },
+            { name: "keywords", content: "Pintask, saha" },
+            { property: "og:type", content: "website" },
+          ]}
+        >
           <meta charSet="utf-8" />
           <meta
             name="viewport"

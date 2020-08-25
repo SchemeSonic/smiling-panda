@@ -5,7 +5,6 @@ import _ from "lodash";
 import { safePrefix } from "../utils";
 import Header from "./Header";
 import Footer from "./Footer";
-import { Breadcrumb } from "gatsby-plugin-breadcrumb";
 
 export default class Body extends React.Component {
   render() {
@@ -18,11 +17,15 @@ export default class Body extends React.Component {
             {_.get(this.props, "pageContext.site.siteMetadata.title")}
           </title>
           <meta charSet="utf-8" />
-          <meta
+          {/* <meta
             name="viewport"
             content="width=device-width, initialScale=1.0"
           />
-          <meta name="google" content="notranslate" />
+          <meta name="google" content="notranslate" /> */}
+          <meta
+            name="Pintask"
+            content="Harita tabanlı saha iş takip ve ekip yönetim uygulaması. Saha ekiplerinize harita üzerinde iş atayın, çalışanlarınızın konumlarını takip edin, sahadan anlık haberdar olun. Çalışanlarınızın performansını ve işlerinizi analiz ederek veriminizi arttırın. Saha iş takip ve ekip yönetiminde en iyi yardımcınız Pintask ile istediğiniz belge ve bilgilere her zaman ulaşın."
+          />
           <link
             href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i"
             rel="stylesheet"

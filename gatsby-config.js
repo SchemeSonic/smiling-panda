@@ -4,7 +4,6 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
-    `gatsby-plugin-next-seo`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

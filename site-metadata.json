@@ -1,7 +1,6 @@
 {
   "title": "Pintaskapp",
   "palette": "orange",
-  "description": "Harita tabanlı saha iş takip ve ekip yönetim uygulaması. Saha ekiplerinize harita üzerinde iş atayın, çalışanlarınızın konumlarını takip edin, sahadan anlık haberdar olun. Çalışanlarınızın performansını ve işlerinizi analiz ederek veriminizi arttırın. Saha iş takip ve ekip yönetiminde en iyi yardımcınız Pintask ile istediğiniz belge ve bilgilere her zaman ulaşın.",
   "header": {
     "title": "Pintask",
     "logo_img": "/images/logo_Logo.png",

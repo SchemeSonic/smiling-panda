@@ -11,32 +11,17 @@ export default class Body extends React.Component {
     return (
       <React.Fragment>
         <Helmet>
-          {/* <title>
+          <title>
             {_.get(this.props, "pageContext.frontmatter.title") &&
               _.get(this.props, "pageContext.frontmatter.title") + " - "}
             {_.get(this.props, "pageContext.site.siteMetadata.title")}
           </title>
+          <meta charSet="utf-8" />
           <meta
             name="viewport"
             content="width=device-width, initialScale=1.0"
           />
-          <meta
-            name="description"
-            content="Harita tabanlı saha iş takip ve ekip yönetim uygulaması. Saha ekiplerinize harita üzerinde iş atayın, çalışanlarınızın konumlarını takip edin, sahadan anlık haberdar olun. Çalışanlarınızın performansını ve işlerinizi analiz ederek veriminizi arttırın. Saha iş takip ve ekip yönetiminde en iyi yardımcınız Pintask ile istediğiniz belge ve bilgilere her zaman ulaşın."
-          />
           <meta name="google" content="notranslate" />
-
-          <meta charSet="utf-8" /> */}
-          <html lang="en" />
-          <title>Pintask</title>
-          <description>
-            Harita tabanlı saha iş takip ve ekip yönetim uygulaması. Saha
-            ekiplerinize harita üzerinde iş atayın, çalışanlarınızın konumlarını
-            takip edin, sahadan anlık haberdar olun. Çalışanlarınızın
-            performansını ve işlerinizi analiz ederek veriminizi arttırın. Saha
-            iş takip ve ekip yönetiminde en iyi yardımcınız Pintask ile
-            istediğiniz belge ve bilgilere her zaman ulaşın.
-          </description>
           <link
             href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i"
             rel="stylesheet"

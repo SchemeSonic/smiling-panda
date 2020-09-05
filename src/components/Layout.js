@@ -18,10 +18,9 @@ export default class Body extends React.Component {
           </title>
           <meta charSet="utf-8" />
           <meta
-            name="description"
-            content="Hariita tabanlı saha iş takip ve ekip yönetim uygulaması. Saha ekiplerinize harita üzerinde iş atayın, çalışanlarınızın konumlarını takip edin, sahadan anlık haberdar olun. Çalışanlarınızın performansını ve işlerinizi analiz ederek veriminizi arttırın. Saha iş takip ve ekip yönetiminde en iyi yardımcınız Pintask ile istediğiniz belge ve bilgilere her zaman ulaşın."
+            name="google-site-verification"
+            content="Xr7z7TgzrkYwLHXoa2p5YBP3P0EleqNI7_O_LlUqxz8"
           />
-         <meta name="google-site-verification" content="Xr7z7TgzrkYwLHXoa2p5YBP3P0EleqNI7_O_LlUqxz8" />    
           <meta
             name="viewport"
             content="width=device-width, initialScale=1.0"

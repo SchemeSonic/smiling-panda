@@ -42,21 +42,21 @@ module.exports = {
         trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none",
       },
     },
-    // {
-    //   resolve: "gatsby-plugin-next-seo",
-    //   options: {
-    //     openGraph: {
-    //       type: "website",
-    //       url: "https://www.pintask.app/",
-    //       title:
-    //         "Sahadaki işlerinizi ve ekiplerinizi harita üzerinde koordine edin",
-    //       description:
-    //         "Harita tabanlı saha iş takip ve ekip yönetim uygulaması. Saha ekiplerinize harita üzerinde iş atayın, çalışanlarınızın konumlarını takip edin, sahadan anlık haberdar olun. Çalışanlarınızın performansını ve işlerinizi analiz ederek veriminizi arttırın. Saha iş takip ve ekip yönetiminde en iyi yardımcınız Pintask ile istediğiniz belge ve bilgilere her zaman ulaşın.",
-    //       site_name: "Pintask",
-    //     },
-    //     description: "Saha İş Takip ve Ekip Yönetim Uygulaması",
-    //     title: "Pintask",
-    //   },
-    // },
+    {
+      resolve: "gatsby-plugin-next-seo",
+      options: {
+        openGraph: {
+          type: "website",
+          url: "https://www.pintask.app/",
+          title:
+            "Sahadaki işlerinizi ve ekiplerinizi harita üzerinde koordine edin",
+          description:
+            "Harita tabanlı saha iş takip ve ekip yönetim uygulaması. Saha ekiplerinize harita üzerinde iş atayın, çalışanlarınızın konumlarını takip edin, sahadan anlık haberdar olun. Çalışanlarınızın performansını ve işlerinizi analiz ederek veriminizi arttırın. Saha iş takip ve ekip yönetiminde en iyi yardımcınız Pintask ile istediğiniz belge ve bilgilere her zaman ulaşın.",
+          site_name: "Pintask",
+        },
+        description: "Saha İş Takip ve Ekip Yönetim Uygulaması",
+        title: "Pintask",
+      },
+    },
   ],
 };

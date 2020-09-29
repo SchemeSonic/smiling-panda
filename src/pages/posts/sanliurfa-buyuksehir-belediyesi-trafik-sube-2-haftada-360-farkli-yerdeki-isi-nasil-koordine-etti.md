@@ -4,8 +4,8 @@ title: Şanlıurfa Büyükşehir Belediyesi Trafik Şube 2 haftada 360 farklı y
   nasıl koordine etti?
 subtitle: ''
 date: 2020-09-29T10:00:00Z
-thumb_img_path: "/images/urfa-isbirligi.png"
-img_path: "/images/urfa-isbirligi-blogkapakfoto.jpg"
+thumb_img_path: "/images/urfa-isbirligi-blogkapakfoto.jpg"
+img_path: "/images/urfa-isbirligi.png"
 excerpt: ''
 
 ---

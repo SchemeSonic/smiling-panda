@@ -5,7 +5,7 @@ title: Şanlıurfa Büyükşehir Belediyesi Trafik Şube 2 haftada 360 farklı y
 subtitle: ''
 date: 2020-09-29T10:00:00Z
 thumb_img_path: "/images/urfa-isbirligi.png"
-img_path: "/images/urfa-isbirligi-twitter.png"
+img_path: "/images/urfa-isbirligi-blogkapakfoto.jpg"
 excerpt: ''
 
 ---

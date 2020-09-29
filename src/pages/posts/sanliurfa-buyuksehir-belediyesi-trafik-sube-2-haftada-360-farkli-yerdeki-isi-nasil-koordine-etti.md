@@ -21,6 +21,8 @@ Levhalar takıldı mı? Takıldıysa standartlara uygun olarak mı takıldı? İ
 
 Trafikteki işaretlemelerle alakalı yaşanan sıkıntıların kaynağını bulmakta sıkıntı olabiliyordu. Eksik ya da yanlış bir işaretlemeden dolayı mı sorun yaşandı yoksa sorun yapılan işten değil de dış etkenlerden mi kaynaklanıyordu belge ve fotoğraf eksikliğinden dolayı bir kanıt bulunamıyordu.
 
+![](/images/download-1.jpeg)
+
 * Çalışanların performanslarını ölçmek
 
 Şehrin farklı yerlerine dağılan ekiplerin iş sürelerini takip etmek, hangi tarz iş ne kadar sürede biter, çalışanlar sahada ne kadar vakit harcamış bunlar tam olarak ölçülemediği için çalışan performanslarını çıkarmakta zorluk yaşanıyordu.
@@ -32,6 +34,8 @@ Trafikteki işaretlemelerle alakalı yaşanan sıkıntıların kaynağını bulm
 ![](/images/screen-shot-2020-09-28-at-23-09-20.png)
 
 * Sahada konum bazlı işler oluşturarak işleri belirli kişi veya ekiplere atamaya başladılar ve işlerin kayıtları oluşturulmuş oldu. Saha ekipleri işe başlamadan önlemlerin alındığına dair çektikleri fotoğrafları ve işi tamamladıklarını gösteren fotoğrafları çalıştıkları işe yüklediler ve işin bittiğini tek bir butonla bildirmiş oldular. Pintask’ın iş özelinde fotoğrafların, çalışanların, tarihin, süresinin ve konumunun tutulduğu dijital arşiv özelliğiyle tüm işlerinin kontrolünü belgeleriyle sağlamaya başladılar.
+
+  ![](/images/download-2-01.jpg)
 * Çalışanların konumlarının takip edilebilmesi ile sahadaki ekiplerin çalışma yerlerinde olup olmadığı anlık takip edilmeye başladı. Pintask’ın dinamik analiz oluşturabilme özelliği sayesinde de kim kaç saat çalışmış, hangi iş ne kadar zaman alıyor, en çok hangi iş tamamlanmış belirledikleri tüm performans kriterlerine yönelik rapor alabilmeye başladılar.
 
 #### _Sonuç_

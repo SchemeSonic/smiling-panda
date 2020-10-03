@@ -6,7 +6,8 @@ subtitle: ''
 date: 2020-10-02T21:00:00Z
 thumb_img_path: "/images/uzaktan-calisma-blog-01.png"
 img_path: "/images/uzaktan-calisma-blog-01.png"
-excerpt: ''
+excerpt: 'Uzaktan çalışma konuda bütün gün sahada olup her zaman uzaktan çalışanlar
+  ve sahadaki ekibini ofisten koordine etmeye uğraşanlar bu duruma nasıl yaklaşıyor? '
 
 ---
 Son 6 aydır hepimiz uzaktan çalışma, hızlı adapte olma, kullanılan araçlar, verimlilik vb. bunlar üzerine çok konuştuk, yazdık ve dinledik. Bu konuda bütün gün sahada olup her zaman uzaktan çalışanlar ve sahadaki ekibini ofisten koordine etmeye uğraşanlar bu duruma nasıl yaklaşıyor? Pintask kullanıcılarından yola çıkarak derlediğimiz yazımız belki size de uzaktan çalışma konusuna olan yaklaşımınızı karşılaştırmak için faydalı olabilir.
